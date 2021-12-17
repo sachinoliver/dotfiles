@@ -48,7 +48,7 @@ keybindings consistent with all of my window managers.
 | `MODKEY + d` | minimize current window  |
 | `MODKEY + CTRL + d` | restore recent minimize window |
 
-
+```
 
 
 ## Getting Help With Awesome
