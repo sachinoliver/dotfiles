@@ -65,10 +65,6 @@ You can ask questions on [Stack Overflow](http://stackoverflow.com/questions/tag
 #### Reddit
 There is an [awesome subreddit](https://www.reddit.com/r/awesomewm/) where you can share your work and ask questions.
 
-## Reporting issues
-
-Please report any issues you have with AwesomeWM on [our bugtracker](https://github.com/awesomeWM/awesome/issues).
-
 ## Contributing code
 
 You can submit pull requests on the [github repository](https://github.com/awesomeWM/awesome).
